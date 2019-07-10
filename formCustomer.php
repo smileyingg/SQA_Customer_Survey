@@ -56,7 +56,7 @@
                 <div class="input-group-prepend">
                   <span style="width: 120px;" class="input-group-text" id="inputGroup-sizing-default">โทรศัพท์</span>
                 </div>
-                <input type="text" class="form-control" id="customer_Telephone" name="customer_Telephone" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-default" placeholder="xxx-xxx-xxxx" required>
+                <input type="tel" class="form-control" id="customer_Telephone" name="customer_Telephone" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-default" placeholder="xxxxxxxxxx" pattern="[0-9]{3}[0-9]{3}[0-9]{4}" title="กรุณากรอกเบอร์โทรศัพท์ให้ถูกต้อง" required>
               </div>
             </div>
             <div class="col-sm-6">
@@ -64,7 +64,7 @@
                 <div class="input-group-prepend">
                   <span style="width: 120px;" class="input-group-text" id="inputGroup-sizing-default">อีเมล</span>
                 </div>
-                <input type="text" class="form-control" id="customer_Email" name="customer_Email" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-default" placeholder="example@example.com" required>
+                <input class="form-control" id="customer_Email" name="customer_Email" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-default" placeholder="example@example.com" type="email" pattern="[a-zA-Z0-9!#$%&amp;'*+\/=?^_`{|}~.-]+@[a-zA-Z0-9-]+(\.[a-zA-Z0-9-]+)*" title="กรุณาตรวจสอบรูปแบบ E-mail" required />
               </div>
             </div>
 
