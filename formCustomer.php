@@ -118,7 +118,7 @@
                   <td><input type="radio" name="q1_s3" id="q1_s3_c1" data-col="1" value="1" required></td>
                 </tr>
                 <tr style="text-align:center;">
-                  <th scope="row" style="text-align:left;">4. มีความรู้ มีความสามารถ และความเชียวชาญในการให้บริการงาน</th>
+                  <th scope="row" style="text-align:left;">4. มีความรู้ มีความสามารถ และความเชี่ยวชาญในการให้บริการงาน</th>
                   <td><input type="radio" name="q1_s4" id="q1_s4_c5" data-col="5" value="5" required></td>
                   <td><input type="radio" name="q1_s4" id="q1_s4_c4" data-col="4" value="4" required></td>
                   <td><input type="radio" name="q1_s4" id="q1_s4_c3" data-col="3" value="3" required></td>
@@ -139,7 +139,7 @@
           <!-- End Q1. -->
           <!-- Q2. -->
           <div class="card-body">
-            <h5>2. ด้านผู้ดูแลบุคลากร Outsource (Supervisor)</h5><br />
+            <h5>2. ด้านผู้ดูแลบุคลากร IT Outsource Supervisor</h5><br />
 
             <table class="table table-bordered">
               <thead class="thead-light">
@@ -162,7 +162,7 @@
                   <td><input type="radio" name="q2_s1" id="q2_s1_c1" data-col="1" value="1" required></td>
                 </tr>
                 <tr style="text-align:center;">
-                  <th scope="row" style="text-align:left;">2. ความสามารถในการหาทางแก้ไขได้ตรงจุด</th>
+                  <th scope="row" style="text-align:left;">2. ความสามารถในการหาทางแก้ไขปัญหาได้ตรงจุด</th>
                   <td><input type="radio" name="q2_s2" id="q2_s2_c5" data-col="5" value="5" required></td>
                   <td><input type="radio" name="q2_s2" id="q2_s2_c4" data-col="4" value="4" required></td>
                   <td><input type="radio" name="q2_s2" id="q2_s2_c3" data-col="3" value="3" required></td>
