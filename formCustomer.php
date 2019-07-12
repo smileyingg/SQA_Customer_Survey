@@ -216,7 +216,7 @@
               </thead>
               <tbody>
                 <tr style="text-align:center;">
-                  <th scope="row" style="text-align:left;">1. ได้รับการส่งมอบงานตรงเวลาและสามารถส่งมอบงานตามสัญญา</th>
+                  <th scope="row" style="text-align:left;">1. ได้รับการส่งมอบงานตรงเวลาและสามารถส่งมอบงานได้ตามสัญญา</th>
                   <td><input type="radio" name="q3_s1" id="q3_s1_c5" data-col="5" value="5" required></td>
                   <td><input type="radio" name="q3_s1" id="q3_s1_c4" data-col="4" value="4" required></td>
                   <td><input type="radio" name="q3_s1" id="q3_s1_c3" data-col="3" value="3" required></td>
